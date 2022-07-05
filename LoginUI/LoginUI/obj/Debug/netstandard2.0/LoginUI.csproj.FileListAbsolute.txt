@@ -1,0 +1,16 @@
+C:\Users\briss\source\repos\LoginUI\LoginUI\LoginUI\bin\Debug\netstandard2.0\LoginUI.deps.json
+C:\Users\briss\source\repos\LoginUI\LoginUI\LoginUI\bin\Debug\netstandard2.0\LoginUI.dll
+C:\Users\briss\source\repos\LoginUI\LoginUI\LoginUI\bin\Debug\netstandard2.0\ref\LoginUI.dll
+C:\Users\briss\source\repos\LoginUI\LoginUI\LoginUI\bin\Debug\netstandard2.0\LoginUI.pdb
+C:\Users\briss\source\repos\LoginUI\LoginUI\LoginUI\obj\Debug\netstandard2.0\LoginUI.csproj.AssemblyReference.cache
+C:\Users\briss\source\repos\LoginUI\LoginUI\LoginUI\obj\Debug\netstandard2.0\LoginUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\briss\source\repos\LoginUI\LoginUI\LoginUI\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\briss\source\repos\LoginUI\LoginUI\LoginUI\obj\Debug\netstandard2.0\login.xaml.g.cs
+C:\Users\briss\source\repos\LoginUI\LoginUI\LoginUI\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\briss\source\repos\LoginUI\LoginUI\LoginUI\obj\Debug\netstandard2.0\LoginUI.AssemblyInfoInputs.cache
+C:\Users\briss\source\repos\LoginUI\LoginUI\LoginUI\obj\Debug\netstandard2.0\LoginUI.AssemblyInfo.cs
+C:\Users\briss\source\repos\LoginUI\LoginUI\LoginUI\obj\Debug\netstandard2.0\LoginUI.csproj.CoreCompileInputs.cache
+C:\Users\briss\source\repos\LoginUI\LoginUI\LoginUI\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\briss\source\repos\LoginUI\LoginUI\LoginUI\obj\Debug\netstandard2.0\LoginUI.dll
+C:\Users\briss\source\repos\LoginUI\LoginUI\LoginUI\obj\Debug\netstandard2.0\ref\LoginUI.dll
+C:\Users\briss\source\repos\LoginUI\LoginUI\LoginUI\obj\Debug\netstandard2.0\LoginUI.pdb

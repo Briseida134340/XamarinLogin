@@ -1,0 +1,1 @@
+C:\Users\briss\source\repos\LoginUI\LoginUI\LoginUI.UWP\LoginUI.UWP.csproj;x86
